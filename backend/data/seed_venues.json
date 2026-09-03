@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Leopold Cafe",
+    "category": "food",
+    "lat": 18.9220,
+    "lng": 72.8317,
+    "price_level": 2,
+    "duration_minutes": 45,
+    "opening_hours": "08:00-00:30",
+    "vibe_tags": ["iconic", "lively", "touristy"]
+  },
+  {
+    "name": "Gateway of India",
+    "category": "landmark",
+    "lat": 18.9220,
+    "lng": 72.8347,
+    "price_level": 0,
+    "duration_minutes": 30,
+    "opening_hours": "00:00-23:59",
+    "vibe_tags": ["iconic", "photogenic", "touristy"]
+  },
+  {
+    "name": "Marine Drive Promenade",
+    "category": "landmark",
+    "lat": 18.9440,
+    "lng": 72.8235,
+    "price_level": 0,
+    "duration_minutes": 40,
+    "opening_hours": "00:00-23:59",
+    "vibe_tags": ["scenic", "relaxed", "sunset"]
+  },
+  {
+    "name": "Kala Ghoda Cafe",
+    "category": "food",
+    "lat": 18.9280,
+    "lng": 72.8317,
+    "price_level": 2,
+    "duration_minutes": 40,
+    "opening_hours": "08:30-23:00",
+    "vibe_tags": ["cozy", "artsy", "quiet"]
+  },
+  {
+    "name": "Crawford Market",
+    "category": "shopping",
+    "lat": 18.9469,
+    "lng": 72.8342,
+    "price_level": 1,
+    "duration_minutes": 50,
+    "opening_hours": "11:00-20:00",
+    "vibe_tags": ["authentic", "bustling", "local"]
+  },
+  {
+    "name": "Haji Ali Dargah",
+    "category": "culture",
+    "lat": 18.9827,
+    "lng": 72.8090,
+    "price_level": 0,
+    "duration_minutes": 35,
+    "opening_hours": "05:30-22:00",
+    "vibe_tags": ["spiritual", "scenic", "iconic"]
+  },
+  {
+    "name": "Bandra Bandstand Promenade",
+    "category": "landmark",
+    "lat": 19.0442,
+    "lng": 72.8206,
+    "price_level": 0,
+    "duration_minutes": 40,
+    "opening_hours": "00:00-23:59",
+    "vibe_tags": ["scenic", "relaxed", "sea-facing"]
+  },
+  {
+    "name": "Mohammed Ali Road Food Street",
+    "category": "food",
+    "lat": 18.9578,
+    "lng": 72.8320,
+    "price_level": 1,
+    "duration_minutes": 60,
+    "opening_hours": "18:00-01:00",
+    "vibe_tags": ["authentic", "lively", "street-food"]
+  },
+  {
+    "name": "Prithvi Theatre",
+    "category": "culture",
+    "lat": 19.1075,
+    "lng": 72.8263,
+    "price_level": 2,
+    "duration_minutes": 90,
+    "opening_hours": "10:00-22:00",
+    "vibe_tags": ["artsy", "quiet", "authentic"]
+  },
+  {
+    "name": "Juhu Beach",
+    "category": "nature",
+    "lat": 19.0990,
+    "lng": 72.8265,
+    "price_level": 0,
+    "duration_minutes": 45,
+    "opening_hours": "00:00-23:59",
+    "vibe_tags": ["relaxed", "sunset", "family-friendly"]
+  },
+  {
+    "name": "Elco Pani Puri Center",
+    "category": "food",
+    "lat": 19.0656,
+    "lng": 72.8258,
+    "price_level": 1,
+    "duration_minutes": 25,
+    "opening_hours": "16:00-23:00",
+    "vibe_tags": ["authentic", "street-food", "local"]
+  },
+  {
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "category": "landmark",
+    "lat": 18.9401,
+    "lng": 72.8352,
+    "price_level": 0,
+    "duration_minutes": 30,
+    "opening_hours": "00:00-23:59",
+    "vibe_tags": ["iconic", "photogenic", "historic"]
+  },
+  {
+    "name": "Sanjay Gandhi National Park",
+    "category": "nature",
+    "lat": 19.2147,
+    "lng": 72.9105,
+    "price_level": 1,
+    "duration_minutes": 90,
+    "opening_hours": "07:30-18:00",
+    "vibe_tags": ["nature", "quiet", "family-friendly"]
+  },
+  {
+    "name": "Colaba Causeway Market",
+    "category": "shopping",
+    "lat": 18.9151,
+    "lng": 72.8258,
+    "price_level": 1,
+    "duration_minutes": 50,
+    "opening_hours": "10:00-22:00",
+    "vibe_tags": ["bustling", "authentic", "budget-friendly"]
+  },
+  {
+    "name": "Worli Sea Face",
+    "category": "landmark",
+    "lat": 19.0176,
+    "lng": 72.8161,
+    "price_level": 0,
+    "duration_minutes": 35,
+    "opening_hours": "00:00-23:59",
+    "vibe_tags": ["scenic", "relaxed", "sea-facing"]
+  },
+  {
+    "name": "Chhota Bheem Falooda House",
+    "category": "food",
+    "lat": 18.9524,
+    "lng": 72.8156,
+    "price_level": 1,
+    "duration_minutes": 20,
+    "opening_hours": "12:00-23:30",
+    "vibe_tags": ["authentic", "cozy", "local"]
+  }
+]
