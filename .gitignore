@@ -7,7 +7,13 @@ backend/**/__pycache__/
 # Frontend
 frontend/node_modules/
 frontend/dist/
+frontend/.env
+frontend/.env.local
 
 # OS/editor
 .DS_Store
 Thumbs.db
+
+# Editor configs (optional)
+.vscode/
+.idea/
