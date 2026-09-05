@@ -105,7 +105,7 @@ interface ItineraryResult {
   error?: string
 }
 
-const API_BASE = 'http://127.0.0.1:8000'
+const API_BASE = 'https://hack-celestial.onrender.com'
 
 const CATEGORY_STYLES: Record<string, { label: string; badge: string }> = {
   food: { label: 'Culinary Heritage', badge: 'bg-amber-50 text-amber-900 border-amber-200' },
